@@ -15,12 +15,12 @@ I copied next settings from [@Takuya Matsuyama](https://github.com/craftzdog):
 **Clone repo Windows**
 
 ```shell
-git clone https://github.com/lobanov4real/nvim-lazy $env:LOCALAPPDATA\nvim
+git clone https://github.com/lobanov4real/lazynvim $env:LOCALAPPDATA\nvim
 ```
 
 **Clone repo Linux**
 
 ```shell
-git clone https://github.com/lobanov4real/nvim-lazy $HOME/.config/nvim
+git clone https://github.com/lobanov4real/lazynvim $HOME/.config/nvim
 ```
 
