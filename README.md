@@ -8,7 +8,7 @@ I copied next settings from [@Takuya Matsuyama](https://github.com/craftzdog):
   - options
 - lua/plugins
   - colorscheme
-  - editor
+  - ui
 
 ## How to use
 
