@@ -18,6 +18,10 @@ I copied next settings from [@Takuya Matsuyama](https://github.com/craftzdog):
 
 ## How to use
 
+```bash
+winget upgrade Microsoft.AppInstaller Microsoft.WindowsTerminal --source winget
+```
+
 **Clone repo Windows**
 
 ```shell
